@@ -16,7 +16,7 @@ Hardware Control
 ## Tech Stack
 Python
 OpenCV
-ESP32 / Arduino
+ESP32
 Embedded C
 Computer Vision
 
